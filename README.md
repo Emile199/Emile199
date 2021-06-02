@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Emiliano Etienne from México.
+- Currently studying Engineering in Physics at Tec de Monterrey.
+- Beta Microsoft Learn Student Ambassador.
+- Persuing a carrer in Artificial Intelligence and Quantum Computing.
