@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Emiliano Etienne from México.
-- Currently studying Engineering in Physics at Tec de Monterrey.
-- Beta Microsoft Learn Student Ambassador.
-- Persuing a carrer in Artificial Intelligence and Quantum Computing.
+- Currently Semi-Senior Data Scientist at Mercado Libre.
+- Graduated from Tecnologico de Monterrey with a mayor in Physics Engineering and a minor in Artificial Inteligence.
